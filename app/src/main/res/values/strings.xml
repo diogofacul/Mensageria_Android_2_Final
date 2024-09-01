@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mensageria</string>
+    <string name="pt_br_next_button">Próximo</string>
+    <string name="phone_hint">+55 (00) 00000-0000</string>
+    <string name="phone_parser_error">Cannot parse phone number!</string>
+</resources>
